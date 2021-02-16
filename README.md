@@ -8,6 +8,8 @@ Saja Ahmad Swalgah, a biomedical engineer and software web developer.
 ## Location
 Tafilah-Jordan
 
+![](gui.png)
+
 ## Tools
 
 - Spyder platform
@@ -36,7 +38,7 @@ Tafilah-Jordan
 - Run the program. 
 
 ## Notes 
-- All the files inside the repo should stay at the same the level (inside one folder).
+- All the files inside the repo should stay at the same level (inside one folder).
 
 ## Resources
 - [DataSet](https://www.kaggle.com/uciml/pima-indians-diabetes-database) 
