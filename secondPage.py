@@ -73,7 +73,10 @@ def next_page(name, age, gender):
     
     def getInfo():
          info =[]
-         info.append(preg_var.get())
+         if(gender == 'female') :
+             info.append(preg_var.get())
+         else :
+             info.append(0)
          info.append(GCEntry.get())
          info.append(BPEntry.get())
          info.append(SThEntry.get())
